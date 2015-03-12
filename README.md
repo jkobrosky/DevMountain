@@ -14,7 +14,7 @@ Below is a list of coding challenges that increase in difficulty. Please finish 
 When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to interviews@devmounta.in
 
 * [Name] - http://jsfiddle.net/U3ezV/ - http://jsfiddle.net/U3ezV/870/
-* [Food] - http://jsfiddle.net/85Lp6mba/ - SOLUTION-URL
+* [Food] - http://jsfiddle.net/85Lp6mba/ - http://jsfiddle.net/85Lp6mba/525/
 * [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL
 * [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL
 * [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL

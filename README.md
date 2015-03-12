@@ -19,8 +19,8 @@ When you finish each fiddle, click the 'update' button and that will create your
 * [Addition] - http://jsfiddle.net/M8pZf/ - http://jsfiddle.net/M8pZf/502/
 * [First] - http://jsfiddle.net/zsFvE/ - http://jsfiddle.net/zsFvE/599/
 * [Last] -  http://jsfiddle.net/rLes9kdb/ - http://jsfiddle.net/rLes9kdb/235/
-* [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
-* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
+* [Loop] - http://jsfiddle.net/YM7th/ - http://jsfiddle.net/YM7th/468/
+* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - http://jsfiddle.net/4zfcz/465/
 * [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL
 * [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
 * [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL

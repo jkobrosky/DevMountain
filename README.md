@@ -17,8 +17,8 @@ When you finish each fiddle, click the 'update' button and that will create your
 * [Food] - http://jsfiddle.net/85Lp6mba/ - http://jsfiddle.net/85Lp6mba/525/
 * [Double] - http://jsfiddle.net/hu85B/ - http://jsfiddle.net/hu85B/789/
 * [Addition] - http://jsfiddle.net/M8pZf/ - http://jsfiddle.net/M8pZf/502/
-* [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL
-* [Last] -  http://jsfiddle.net/rLes9kdb/ - SOLUTION-URL
+* [First] - http://jsfiddle.net/zsFvE/ - http://jsfiddle.net/zsFvE/599/
+* [Last] -  http://jsfiddle.net/rLes9kdb/ - http://jsfiddle.net/rLes9kdb/235/
 * [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
 * [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
 * [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL

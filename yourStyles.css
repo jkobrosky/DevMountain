@@ -2,4 +2,24 @@ body {
   background-color: #e3e3e3;
 }
 
-/* Your Code Here */
+/* This section changes the background color to the 4 divs on the page. */
+
+/* Changes the top div to green. */
+.container {
+	background-color: #00ff00;
+}
+
+/* Changes the second div to yellow. */
+.row-two {
+	background-color: #ffff00;
+}
+
+/* Changes the third div to red. */
+.row-three {
+	background-color: #ff0000;
+}
+
+/* Changes the fourth div to blue. */
+.row-four {
+	background-color: #0000ff;
+}
